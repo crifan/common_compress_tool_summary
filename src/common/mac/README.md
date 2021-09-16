@@ -23,6 +23,17 @@ zip工具：
     * 用法
       * 右键`7z`文件，可以用`Keka`去打开（自动开始解压缩）
         * ![mac_7z_keka_uncompress](../../assets/img/mac_7z_keka_uncompress.png)
+  * `MacZip`
+    * 旧称：`eZip`
+    * logo
+      * ![mac_7z_uncompress_maczip](../../assets/img/mac_7z_uncompress_maczip.png)
+    * 官网
+      * MacZip - 专为 macOS 而设计的压缩软件！
+        * https://ezip.awehunt.com/
+    * 特点
+      * 支持超过 20 种压缩格式
+        * 支持 rar, zip, 7z, tar, gz, bz2, iso, xz, lzma, apk, lz4 等超过 20 种常见压缩格式
+      * 完美处理加密解密、中文乱码等问题
 * 命令行工具
   * `p7zip`
     * 安装：
